@@ -1,0 +1,7 @@
+{
+  "name": "ztx-uber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
